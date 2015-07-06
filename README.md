@@ -1,4 +1,5 @@
 # cc
+[![NPM version](https://badge.fury.io/js/cc.svg)](http://badge.fury.io/js/cc)  [![Build Status](https://travis-ci.org/ckaatz-nokia/cc.svg?branch=master)](https://travis-ci.org/ckaatz-nokia/cc)
 
 Country Code utility Library
 

@@ -1,5 +1,5 @@
-# cc
-[![NPM version](https://badge.fury.io/js/cc.svg)](http://badge.fury.io/js/cc)  [![Build Status](https://travis-ci.org/ckaatz-nokia/cc.svg?branch=master)](https://travis-ci.org/ckaatz-nokia/cc)
+# country-code
+[![NPM version](https://badge.fury.io/js/country-code.svg)](http://badge.fury.io/js/country-code)  [![Build Status](https://travis-ci.org/ckaatz-nokia/cc.svg?branch=master)](https://travis-ci.org/ckaatz-nokia/cc)
 
 Country Code utility Library
 
@@ -17,7 +17,7 @@ Country Code utility Library
 ## Usage
   
   ```javascript
-  var cc = require("cc");
+  var cc = require("country-code");
   cc.find({name: "Algeria"})
   // { name: 'Algeria',
   //   alpha2: 'DZ',

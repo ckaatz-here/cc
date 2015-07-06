@@ -1,5 +1,5 @@
 {
-  "name": "cc",
+  "name": "country-code",
   "version": "0.0.1",
   "description": "Country Data utility Library, ISO Codes etc...",
   "author": "Christian Kaatz <christian.kaatz@here.com>",

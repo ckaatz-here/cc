@@ -1,4 +1,18 @@
 {
+    "curly": true,
+    "eqeqeq": true,
+    "forin": true,
+    "indent": 4,
+    "multistr": true,
+    "noarg": true,
+    "noempty": true,
+    "strict": false,
+    "trailing": true,
+    "undef": true,
+    "unused": true,
+    "white": false,
+    "devel": false,
+    "node": true,
     "esnext": true,
-    "node": true
+    "expr": true
 }

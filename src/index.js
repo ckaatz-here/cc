@@ -1,3 +1,5 @@
+require('babel/register');
+require("babel/polyfill");
 import _ from "underscore";
 
 const countryData = require('./../util/country-data');

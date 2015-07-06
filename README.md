@@ -12,7 +12,7 @@ Country Code utility Library
 
 ## Installation
 
-  $ npm install cc
+  $ npm install country-code
 
 ## Usage
   
